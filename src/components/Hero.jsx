@@ -37,7 +37,7 @@ const Hero = () => {
             <p className="text-gray-400 text-xl leading-10 max-w-2xl mb-8">
               Passionate about building scalable web applications,
               responsive UI designs and AI-powered solutions with
-              modern frontend technologies.
+              modern frontend and backend technologies.
             </p>
 
             <div className="flex items-center gap-2 text-gray-400 mb-10">

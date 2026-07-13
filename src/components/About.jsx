@@ -47,14 +47,14 @@ const About = () => {
             <div className="flex items-start gap-4">
               <FaCheckCircle className="text-green-400 mt-1" size={22} />
               <p className="text-gray-300 text-[17px]">
-                Strong foundation in React, JavaScript and Tailwind CSS
+                Strong foundation in React, JavaScript, Tailwind CSS and Bootstrap
               </p>
             </div>
 
             <div className="flex items-start gap-4">
               <FaCheckCircle className="text-green-400 mt-1" size={22} />
               <p className="text-gray-300 text-[17px]">
-                Built AI-powered projects like SmartWaste and Plant Disease Detection
+                Built AI-powered projects like SmartWaste and Leaf Disease Detector
               </p>
             </div>
 
@@ -68,7 +68,7 @@ const About = () => {
             <div className="flex items-start gap-4">
               <FaCheckCircle className="text-green-400 mt-1" size={22} />
               <p className="text-gray-300 text-[17px]">
-                Solved 150+ DSA problems using Java and actively improving problem-solving skills
+                Solved 180+ DSA problems using Java and actively improving problem-solving skills
               </p>
             </div>
 
