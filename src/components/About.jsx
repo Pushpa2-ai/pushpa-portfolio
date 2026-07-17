@@ -47,7 +47,7 @@ const About = () => {
             <div className="flex items-start gap-4">
               <FaCheckCircle className="text-green-400 mt-1" size={22} />
               <p className="text-gray-300 text-[17px]">
-                Strong foundation in React, JavaScript, Tailwind CSS and Bootstrap
+                Strong foundation in React, JavaScript, Tailwind CSS, Bootstrap and Django
               </p>
             </div>
 
@@ -68,7 +68,7 @@ const About = () => {
             <div className="flex items-start gap-4">
               <FaCheckCircle className="text-green-400 mt-1" size={22} />
               <p className="text-gray-300 text-[17px]">
-                Solved 180+ DSA problems using Java and actively improving problem-solving skills
+                Solved 200+ DSA problems using Java across LeetCode (150+) and GeeksforGeeks (50+) and actively improving problem-solving skills
               </p>
             </div>
 
@@ -82,27 +82,36 @@ const About = () => {
             <div className="flex items-start gap-4">
               <FaCheckCircle className="text-green-400 mt-1" size={22} />
               <p className="text-gray-300 text-[17px]">
-                Passionate about clean UI design and scalable frontend systems
+                Passionate about clean UI design and scalable web applications
               </p>
             </div>
 
             <div className="flex items-start gap-4">
               <FaCheckCircle className="text-green-400 mt-1" size={22} />
               <p className="text-gray-300 text-[17px]">
-                Focused on becoming a production-ready fullstack engineer
+                Focused on becoming a production-ready fullstack developer
               </p>
             </div>
 
           </div>
 
-          <div className="flex justify-center mt-12">
+          <div className="flex justify-center gap-6 mt-10">
           <a
             href="https://leetcode.com/u/Pushpa21-_/"
             target="_blank"
             rel="noreferrer"
             className="px-8 py-4 rounded-2xl bg-gradient-to-r from-orange-400 to-yellow-500 text-white font-semibold text-lg hover:scale-105 transition duration-300 shadow-lg"
           >
-            View Coding Profile
+            View LeetCode Profile
+          </a>
+
+          <a
+            href="https://www.geeksforgeeks.org/profile/pushpa013fya?tab=activity"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-8 py-4 rounded-2xl bg-green-600 hover:bg-green-700 text-white font-semibold transition"
+            >
+            View GFG Profile
           </a>
         </div>
 

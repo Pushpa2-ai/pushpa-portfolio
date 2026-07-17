@@ -99,6 +99,7 @@ const Skills = () => {
               <Skill name="Postman" />
               <Skill name="Render" />
               <Skill name="AI Integration" />
+              <Skill name="Docker (Basics)" />
 
             </div>
 
