@@ -34,12 +34,7 @@ const About = () => {
         >
 
           <p className="text-gray-300 text-lg md:text-xl leading-10 text-center mb-14">
-            Full Stack Developer passionate about building scalable,
-            responsive and user-friendly web applications using
-            React, Tailwind CSS, Django and REST APIs.
-            Experienced in frontend engineering, backend development,
-            AI-powered projects and modern UI architecture with
-            performance-focused design principles.
+            Full Stack Developer passionate about building scalable, secure, and user-friendly web applications using React, Node.js, Express.js, Django, and MySQL. Experienced in developing REST APIs, implementing role-based authentication, Dockerizing applications, and building end-to-end full-stack solutions with modern development practices.
           </p>
 
           <div className="space-y-7">
@@ -47,49 +42,42 @@ const About = () => {
             <div className="flex items-start gap-4">
               <FaCheckCircle className="text-green-400 mt-1" size={22} />
               <p className="text-gray-300 text-[17px]">
-                Strong foundation in React, JavaScript, Tailwind CSS, Bootstrap and Django
+                Built StockFlow, a full-stack inventory management system using React, Node.js, Express.js, MySQL, and Docker.
               </p>
             </div>
 
             <div className="flex items-start gap-4">
               <FaCheckCircle className="text-green-400 mt-1" size={22} />
               <p className="text-gray-300 text-[17px]">
-                Built AI-powered projects like SmartWaste and Leaf Disease Detector
+                Developed secure REST APIs with JWT authentication and role-based access control using Express.js and Django REST Framework.
               </p>
             </div>
 
             <div className="flex items-start gap-4">
               <FaCheckCircle className="text-green-400 mt-1" size={22} />
               <p className="text-gray-300 text-[17px]">
-                Experience with Django REST APIs and full stack development
+                Containerized applications using Docker and deployed full-stack projects with cloud databases.
               </p>
             </div>
 
             <div className="flex items-start gap-4">
               <FaCheckCircle className="text-green-400 mt-1" size={22} />
               <p className="text-gray-300 text-[17px]">
-                Solved 200+ DSA problems using Java across LeetCode (150+) and GeeksforGeeks (50+) and actively improving problem-solving skills
+                Built AI-powered projects including SmartWaste and Leaf Disease Detector using Python and Django.
               </p>
             </div>
 
             <div className="flex items-start gap-4">
               <FaCheckCircle className="text-green-400 mt-1" size={22} />
               <p className="text-gray-300 text-[17px]">
-                Designed responsive dashboards and productivity applications
+                Solved 210+ DSA problems on LeetCode and GeeksforGeeks using Java.
               </p>
             </div>
 
             <div className="flex items-start gap-4">
               <FaCheckCircle className="text-green-400 mt-1" size={22} />
               <p className="text-gray-300 text-[17px]">
-                Passionate about clean UI design and scalable web applications
-              </p>
-            </div>
-
-            <div className="flex items-start gap-4">
-              <FaCheckCircle className="text-green-400 mt-1" size={22} />
-              <p className="text-gray-300 text-[17px]">
-                Focused on becoming a production-ready fullstack developer
+                Strong foundation in React, JavaScript, Node.js, Express.js, MySQL, Docker, Django, and REST APIs.
               </p>
             </div>
 

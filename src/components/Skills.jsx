@@ -56,6 +56,8 @@ const Skills = () => {
 
             <div className="flex flex-wrap gap-4">
 
+              <Skill name="Node.js" />
+              <Skill name="Express.js" />
               <Skill name="Django" />
               <Skill name="Django REST" />
               <Skill name="REST APIs" />
@@ -98,6 +100,7 @@ const Skills = () => {
               <Skill name="Vercel" />
               <Skill name="Postman" />
               <Skill name="Render" />
+              <Skill name="Railway" />
               <Skill name="AI Integration" />
               <Skill name="Docker (Basics)" />
 

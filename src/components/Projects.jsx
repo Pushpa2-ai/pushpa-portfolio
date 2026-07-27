@@ -2,6 +2,19 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
+    title: "StockFlow",
+    image: "/stockflow.jpeg",
+    description:
+      "A full-stack inventory management system that streamlines product, inventory, customer, supplier, and order management with secure role-based access and real-time analytics.",
+
+    tech: ["React", "Node", "Express", "Tailwind", "REST API", "MySQL", "Docker"],
+
+    github: "https://github.com/Pushpa2-ai/StockFlow",
+
+    demo: "https://stock-flow-alpha-green.vercel.app/",
+  },
+
+  {
     title: "SmartWaste",
     image: "/smartwaste.png",
     description:

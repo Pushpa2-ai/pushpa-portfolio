@@ -31,7 +31,7 @@ const Hero = () => {
             </h1>
 
             <h2 className="text-3xl text-gray-300 font-semibold mb-8">
-              Fullstack Developer | React & Django
+              Fullstack Developer | React, Node.js & Django
             </h2>
 
             <p className="text-gray-400 text-xl leading-10 max-w-2xl mb-8">
