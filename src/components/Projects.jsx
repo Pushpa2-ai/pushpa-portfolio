@@ -39,6 +39,18 @@ const projects = [
 
     demo: "https://leaf-disease-detector-three.vercel.app/",
   },
+  {
+    title: "Chatbot",
+    image: "/chatbot.jpeg",
+    description:
+      "Developed an AI-powered chatbot using Python and Google Gemini API with a RESTful backend, featuring Dark Mode, ChatGPT-style UI, chat export, and response management.",
+
+    tech: ["Python", "Google Gemini 2.5 Flash", "Google GenAI SDK", "REST API", "HTML5", "CSS3", "JavaScript"],
+
+    github: "https://github.com/Pushpa2-ai/gemini-chatbot",
+
+    demo: "https://gemini-chatbot-8jjz.onrender.com",
+  },
 
   {
     title: "Personal Dashboard",

@@ -62,8 +62,10 @@ const Skills = () => {
               <Skill name="Django REST" />
               <Skill name="REST APIs" />
               <Skill name="Python" />
-              <Skill name=" JWTAuthentication" />
-              <Skill name="API Integration" />
+              <Skill name="JWTAuthentication" />
+              <Skill name="RESTful APIs" />
+              <Skill name="Google Gemini API" />
+              <Skill name="Google GenAI SDK" />
 
             </div>
 
@@ -101,7 +103,7 @@ const Skills = () => {
               <Skill name="Postman" />
               <Skill name="Render" />
               <Skill name="Railway" />
-              <Skill name="AI Integration" />
+              <Skill name="Gemini API" />
               <Skill name="Docker (Basics)" />
 
             </div>
