@@ -2,16 +2,30 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "StockFlow",
-    image: "/stockflow.jpeg",
+    title: "WorkFlow",
+    image: "/workflow.jpeg",
     description:
-      "A full-stack inventory management system that streamlines product, inventory, customer, supplier, and order management with secure role-based access and real-time analytics.",
+      "A full-stack project management platform for managing projects, tasks, team workflows, and user access through a centralized dashboard.",
 
-    tech: ["React", "Node", "Express", "Tailwind", "REST API", "MySQL", "Docker"],
 
-    github: "https://github.com/Pushpa2-ai/StockFlow",
+    tech: ["React", "Django REST Framwork", "PostgreSQL", "Redis", "Celery", "Docker"],
 
-    demo: "https://stock-flow-alpha-green.vercel.app/",
+    github: "https://github.com/Pushpa2-ai/workflow",
+
+    demo: "workflow-amber-three.vercel.app",
+  },
+
+  {
+    title: "Leaf Disease Detector",
+    image: "/plant.png",
+    description:
+      "Machine learning based plant leaf disease detection system with severity analysis, prevention suggestions and responsive dashboard UI.",
+
+    tech: ["React", "Django", "Tailwind", "ML", "API"],
+
+    github: "https://github.com/Pushpa2-ai/leaf-disease-detector",
+
+    demo: "https://leaf-disease-detector-three.vercel.app/",
   },
 
   {
@@ -25,19 +39,6 @@ const projects = [
     github: "https://github.com/Pushpa2-ai/smart-waste-tracker",
 
     demo: "https://smart-waste-tracker-vercel.vercel.app/",
-  },
-
-  {
-    title: "Plant Disease Detection",
-    image: "/plant.png",
-    description:
-      "Machine learning based plant leaf disease detection system with severity analysis, prevention suggestions and responsive dashboard UI.",
-
-    tech: ["React", "Django", "Tailwind", "ML", "API"],
-
-    github: "https://github.com/Pushpa2-ai/leaf-disease-detector",
-
-    demo: "https://leaf-disease-detector-three.vercel.app/",
   },
   {
     title: "Chatbot",

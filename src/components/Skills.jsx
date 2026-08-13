@@ -56,16 +56,36 @@ const Skills = () => {
 
             <div className="flex flex-wrap gap-4">
 
-              <Skill name="Node.js" />
-              <Skill name="Express.js" />
               <Skill name="Django" />
               <Skill name="Django REST" />
               <Skill name="REST APIs" />
               <Skill name="Python" />
               <Skill name="JWTAuthentication" />
+              <Skill name="RBAC" />
               <Skill name="RESTful APIs" />
               <Skill name="Google Gemini API" />
               <Skill name="Google GenAI SDK" />
+
+            </div>
+
+          </div>
+
+          {/* AI/ML */}
+          <div className="bg-[#161b33]/80 border border-gray-800 rounded-3xl p-8">
+
+            <h3 className="text-3xl font-bold mb-8">
+              AI / ML
+            </h3>
+
+            <div className="flex flex-wrap gap-4">
+
+              <Skill name="Scikit-learn" />
+              <Skill name="OpenCV" />
+              <Skill name="NumPy" />
+              <Skill name="Classical Machine Learning" />
+              <Skill name="SVM" />
+              <Skill name="Image Processing" />
+              <Skill name="Feature Extraction" />
 
             </div>
 
@@ -81,7 +101,7 @@ const Skills = () => {
             <div className="flex flex-wrap gap-4">
 
               <Skill name="MySQL" />
-              <Skill name="SQLite" />
+              <Skill name="PostgreSQL" />
 
             </div>
 
@@ -98,13 +118,13 @@ const Skills = () => {
 
               <Skill name="Git" />
               <Skill name="GitHub" />
+              <Skill name="Redis" />
+              <Skill name="Celery" />
+              <Skill name="Docker" />
+              <Skill name="Postman" />
               <Skill name="VS Code" />
               <Skill name="Vercel" />
-              <Skill name="Postman" />
               <Skill name="Render" />
-              <Skill name="Railway" />
-              <Skill name="Gemini API" />
-              <Skill name="Docker (Basics)" />
 
             </div>
 

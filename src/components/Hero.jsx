@@ -31,7 +31,7 @@ const Hero = () => {
             </h1>
 
             <h2 className="text-3xl text-gray-300 font-semibold mb-8">
-              Fullstack Developer | React, Node.js & Django
+              Fullstack Developer | React, & Django
             </h2>
 
             <p className="text-gray-400 text-xl leading-10 max-w-2xl mb-8">
@@ -84,7 +84,7 @@ const Hero = () => {
               </a>
 
               <a
-                href="pushpa01082020@gmail.com"
+                href="pushpakumari.cs27@gmail.com"
                 className="w-14 h-14 rounded-xl border border-gray-700 flex items-center justify-center hover:bg-white hover:text-black transition"
               >
                 <FaEnvelope size={24} />
