@@ -12,7 +12,7 @@ const projects = [
 
     github: "https://github.com/Pushpa2-ai/workflow",
 
-    demo: "workflow-amber-three.vercel.app",
+    demo: "https://workflow-amber-three.vercel.app/",
   },
 
   {
