@@ -16,6 +16,19 @@ const projects = [
   },
 
   {
+    title: "SmartWaste",
+    image: "/smartwaste.png",
+    description:
+      "AI-powered waste management and garbage tracking system with smart monitoring features, responsive UI and scalable backend integration.",
+
+    tech: ["React", "Django", "Tailwind", "REST API", "AI"],
+
+    github: "https://github.com/Pushpa2-ai/smart-waste-tracker",
+
+    demo: "https://smart-waste-tracker-vercel.vercel.app/",
+  },
+
+  {
     title: "Leaf Disease Detector",
     image: "/plant.png",
     description:
@@ -29,16 +42,16 @@ const projects = [
   },
 
   {
-    title: "SmartWaste",
-    image: "/smartwaste.png",
+    title: "Fitness Booking API",
+    image: "/fitness.jpeg",
     description:
-      "AI-powered waste management and garbage tracking system with smart monitoring features, responsive UI and scalable backend integration.",
+      "Developed a secure RESTful API using FastAPI with JWT authentication, Pydantic validation, and booking management with duplicate and overbooking prevention.",
 
-    tech: ["React", "Django", "Tailwind", "REST API", "AI"],
+    tech: ["Python", "FastAPI", "SQLite", "JWT", "Pydantic" ],
 
-    github: "https://github.com/Pushpa2-ai/smart-waste-tracker",
+    github: "https://github.com/Pushpa2-ai/fitness_booking_api",
 
-    demo: "https://smart-waste-tracker-vercel.vercel.app/",
+    demo: "https://fitness-booking-api-jt3h.onrender.com/docs?utm_source=chatgpt.com",
   },
   {
     title: "Chatbot",

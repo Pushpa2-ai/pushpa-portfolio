@@ -58,6 +58,7 @@ const Skills = () => {
 
               <Skill name="Django" />
               <Skill name="Django REST" />
+              <Skill name="FastAPI" />
               <Skill name="REST APIs" />
               <Skill name="Python" />
               <Skill name="JWTAuthentication" />
